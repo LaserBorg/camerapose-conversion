@@ -1,0 +1,7 @@
+__pycache__
+_obsolete
+
+assets/*
+!assets/scene.dae
+
+output/*

@@ -1,0 +1,4 @@
+pycollada
+open3d
+numpy
+scipy
