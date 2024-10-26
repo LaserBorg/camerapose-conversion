@@ -3,5 +3,7 @@ _obsolete
 
 assets/*
 !assets/scene.dae
+!teapot_blender.ply
 
 output/*
+!output/cameras_v1.csv
